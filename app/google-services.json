@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784847586473",
+    "firebase_url": "https://discoverit-b459f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "discoverit-b459f",
+    "storage_bucket": "discoverit-b459f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784847586473:android:1793ab0a36af2b595355b8",
+        "android_client_info": {
+          "package_name": "com.discoverIT.discoverIT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784847586473-mfrtjutig9s7bp8kv6icgls2q7f29ob8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFKbXInnn98gd1T1XpknEsz_4xbOD32Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784847586473-mfrtjutig9s7bp8kv6icgls2q7f29ob8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

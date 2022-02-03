@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="violet">#473F97</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="pink">#f469a9</color>
+    <color name="purple">#ba53de</color>
+    <color name="red">#FF0000</color>
+    <color name="blu">#88bef5</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Color chat module -->
+    <color name="primary">#1C2E46</color>
+    <color name="primary_dark">#142232</color>
+    <color name="background_2">#E3DDED</color>
+    <color name="primary_text">#323232</color>
+    <color name="secondary_text">#757575</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="received_message_background">#090D16</color>
+    <color name="orange">#FF9800</color>
+    <color name="grey">#919191</color>
+</resources>

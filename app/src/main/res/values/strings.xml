@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Healthy Heart</string>
+    <string name="tap_here_to_start">Tap Here to start!</string>
+
+    <string name="hello_world">Hello Accessory!</string>
+    <string name="ConnectionEstablishedMsg">Service Connection with HelloAccessory(P) has been established.</string>
+    <string name="ConnectionTerminateddMsg">Service Connection with HelloAccessory(P) has been terminated.</string>
+    <string name="ConnectionAlreadyExist">Service Connection has already been existed!!!</string>
+    <string name="ConnectionAlreadyDisconnected">Service Connection has already been disconnected!!!</string>
+    <string name="ConnectionFailure">Service Connection Failure</string>
+    <string name="NoPeersFound">No peers have been found!!!</string>
+    <string name="buttonConnect">Connect</string>
+    <string name="buttonDisconnect">Disconnect</string>
+    <string name="buttonSend">Send</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
